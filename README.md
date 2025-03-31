@@ -11,9 +11,6 @@ A comprehensive exploratory data analysis (EDA) project on Airbnb dataset, focus
 - 🌍 **Geospatial Analysis** – Interactive maps using Folium
 - 📈 **Visualization** – Seaborn and Matplotlib for data storytelling
 
-## 📸 Sample Visualizations
-
-![Sample Visualization](https://via.placeholder.com/800x400) *(Replace with actual visualizations)*
 
 ## 🛠 Tech Stack
 
@@ -25,7 +22,7 @@ A comprehensive exploratory data analysis (EDA) project on Airbnb dataset, focus
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/airbnb-data-analysis.git
+   git clone https://github.com/tshubham07/airbnb-data-analysis.git
    cd airbnb-data-analysis
    ```
 2. **Install dependencies**
@@ -58,5 +55,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📩 Contact
 
-For any inquiries or collaboration opportunities, reach out at [your-email@example.com](07shubhamt@gmail.com.com) or connect via [LinkedIn](https://www.linkedin.com/in/shubham-tawade/).
+For any inquiries or collaboration opportunities, reach out at [07shubhamt.com](07shubhamt@gmail.com) or connect via [LinkedIn](https://www.linkedin.com/in/shubham-tawade/).
 
